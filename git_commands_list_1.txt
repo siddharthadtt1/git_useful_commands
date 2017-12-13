@@ -1,0 +1,10 @@
+
+LIST OF USEFUL COMMANDS IN GITHUB :
+
+1. Check previous logs of github : 
+	git log
+	
+2. Amend logs of github : 
+	git log --amend
+	
+3. 
